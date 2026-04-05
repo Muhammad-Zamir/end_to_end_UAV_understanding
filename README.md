@@ -53,7 +53,7 @@ Change the dataset and checkpoint path according to your own local setup.
 
 ## Acknowledgment
 
-...........
+- We clean the code and add comments in the code using ChatGPT and Soonet4.6. Many thanks for their open source models.
 
 ## Citation
 
